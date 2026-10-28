@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-08",
+  "nombre": "Gewo Nexxus EL Pro 48",
+  "categoria": "Gomas",
+  "subcategoria": "Tensor Ofensivo Moderno",
+  "marca": "Gewo",
+  "precio": 46990,
+  "dureza_esponja": "48° (Dura)",
+  "velocidad": 13.5,
+  "efecto": 13,
+  "descripcion": "Desarrollada para compensar la pérdida de rotación de las pelotas ABS modernas mediante la tecnología FLEX-TECH. Proporciona una trayectoria tensa y una respuesta explosiva al rozar la pelota con movimientos cortos y rápidos.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-naranja.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
