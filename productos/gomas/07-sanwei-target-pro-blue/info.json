@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-07",
+  "nombre": "Sanwei Target Pro Blue",
+  "categoria": "Gomas",
+  "subcategoria": "Híbrida Sino-Alemana",
+  "marca": "Sanwei",
+  "precio": 27990,
+  "dureza_esponja": "39° China (~48° Europea)",
+  "velocidad": 12,
+  "efecto": 13.5,
+  "descripcion": "Fusión híbrida entre una superficie semi-pegajosa y una esponja tensada azul Cake Sponge de poro grande. Permite imprimir giros pesados en saques y aperturas sin sacrificar la elasticidad necesaria para atacar a media distancia.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-azul.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
