@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-05",
+  "nombre": "Tibhar Evolution MX-P",
+  "categoria": "Gomas",
+  "subcategoria": "Ofensiva Directa / Alta Potencia",
+  "marca": "Tibhar",
+  "precio": 48990,
+  "dureza_esponja": "45.7° - 47.7° (Dura)",
+  "velocidad": 14,
+  "efecto": 12.5,
+  "descripcion": "La versión más contundente de la serie Evolution. Integra la esponja de poros amplios Red Power Sponge para jugadores avanzados que buscan máxima aceleración, penetración y velocidad terminal en impactos directos.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-roja.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
