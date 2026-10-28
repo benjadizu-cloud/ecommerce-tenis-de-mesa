@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-04",
+  "nombre": "Xiom Vega Europe",
+  "categoria": "Gomas",
+  "subcategoria": "Control / Carbo Sponge",
+  "marca": "Xiom",
+  "precio": 34990,
+  "dureza_esponja": "42.5° (Suave)",
+  "velocidad": 10.5,
+  "efecto": 12,
+  "descripcion": "Goma accesible con esponja negra Carbo Sponge y tacto suave. Diseñada para maximizar la seguridad en el juego, ofreciendo una parábola de tiro alta que perdona errores en bloqueos pasivos y topspins de revés.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-negra.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
