@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-02",
+  "nombre": "DHS Hurricane 3 Neo",
+  "categoria": "Gomas",
+  "subcategoria": "China Tradicional / Pegajosa",
+  "marca": "DHS",
+  "precio": 32990,
+  "dureza_esponja": "39° - 41° (Muy Dura)",
+  "velocidad": 11,
+  "efecto": 14,
+  "descripcion": "El estándar histórico del juego ofensivo asiático para el golpe de derecha. Superficie hiperadhesiva (tacky) con esponja naranja Neo pre-pegada de alta densidad, permitiendo retener la pelota para imprimir rotación extrema y arcos bajos con caídas impredecibles.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-naranja.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
