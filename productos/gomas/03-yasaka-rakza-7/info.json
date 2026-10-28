@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-03",
+  "nombre": "Yasaka Rakza 7",
+  "categoria": "Gomas",
+  "subcategoria": "Tensión Europea / Giro",
+  "marca": "Yasaka",
+  "precio": 42990,
+  "dureza_esponja": "45° - 50° (Media-Dura)",
+  "velocidad": 11,
+  "efecto": 14,
+  "descripcion": "Goma con tecnología Hybrid Energy y alto contenido de caucho natural. Destaca por su agarre mecánico superior y durabilidad, facilitando aperturas de topspin cargadas de efecto y un control muy predecible tanto de derecha como de revés.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-crema.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
