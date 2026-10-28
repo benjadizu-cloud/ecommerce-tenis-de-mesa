@@ -5,10 +5,9 @@
   "marca": "STIGA",
   "descripcion": "Pelota de la clásica marca sueca, destacada por su dureza superficial y el sonido característico al golpear la mesa. Es sumamente popular en las ligas de clubes nórdicos y europeos, ideal para un uso competitivo y recreativo avanzado.",
   "imagenes": [
-    "/images/pelotas/stiga-perform-1.jpg",
-    "/images/pelotas/stiga-perform-2.jpg",
-    "/images/pelotas/stiga-perform-3.jpg",
-    "/images/pelotas/stiga-perform-4.jpg",
-    "/images/pelotas/stiga-perform-5.jpg"
+    "stiga_caja.jpeg",
+    "stiga_caja2.jpeg",
+    "stiga_caja3.jpeg",
+    "stiga_pelota.jpeg"
   ]
 }

@@ -5,9 +5,9 @@
   "marca": "Tibhar",
   "descripcion": "Pelota de alta fiabilidad patrocinada por grandes jugadores profesionales europeos. Tiene la ventaja de retener muy bien sus características de fricción en la superficie, facilitando el juego con efecto (topspin).",
   "imagenes": [
-    "/images/pelotas/tibhar-syntt-1.jpg",
-    "/images/pelotas/tibhar-syntt-2.jpg",
-    "/images/pelotas/tibhar-syntt-3.jpg",
-    "/images/pelotas/tibhar-syntt-4.jpg"
+    "tibhar_caja.jpeg",
+    "tibhar_caja2.jpeg",
+    "tibhar_caja3.jpeg",
+    "tibhar_pelota.jpeg"
   ]
 }

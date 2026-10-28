@@ -5,9 +5,10 @@
   "marca": "JOOLA",
   "descripcion": "Pelota de competición de plástico ABS con costura. Muy popular en Norteamérica y Europa. Ofrece un rebote muy estable y alta durabilidad, siendo excelente tanto para torneos formales como para entrenamientos de alto rendimiento.",
   "imagenes": [
-    "/images/pelotas/joola-prime-1.jpg",
-    "/images/pelotas/joola-prime-2.jpg",
-    "/images/pelotas/joola-prime-3.jpg",
-    "/images/pelotas/joola-prime-4.jpg"
+    "joola_caja.jpeg",
+    "joola_caja2.jpeg",
+    "joola_caja3.jpeg",
+    "joola_caja4.jpeg",
+    "joola_pelota.jpeg"
   ]
 }

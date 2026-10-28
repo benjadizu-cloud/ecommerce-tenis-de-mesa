@@ -5,10 +5,9 @@
   "marca": "Nittaku",
   "descripcion": "Considerada por jugadores y expertos como el estándar de oro en cuanto a calidad de fabricación. Fabricada en Japón, es famosa por su durabilidad extrema, redondez perfecta y un rebote sumamente consistente. Uso ideal para torneos de alto nivel.",
   "imagenes": [
-    "/images/pelotas/nittaku-premium-1.jpg",
-    "/images/pelotas/nittaku-premium-2.jpg",
-    "/images/pelotas/nittaku-premium-3.jpg",
-    "/images/pelotas/nittaku-premium-4.jpg",
-    "/images/pelotas/nittaku-premium-5.jpg"
+    "nittaku_caja.jpeg",
+    "nittaku_caja2.jpeg",
+    "nittaku_caja3.jpeg",
+    "nittaku_pelota.jpeg"
   ]
 }

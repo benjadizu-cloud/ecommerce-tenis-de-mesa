@@ -5,10 +5,9 @@
   "marca": "Butterfly",
   "descripcion": "Pelota de competición de una de las marcas más prestigiosas a nivel global. Cuenta con un control estricto de calidad, asegurando que cada pelota tenga un peso idéntico y sin deformaciones. Perfecta para competencias internacionales.",
   "imagenes": [
-    "/images/pelotas/butterfly-r40-1.jpg",
-    "/images/pelotas/butterfly-r40-2.jpg",
-    "/images/pelotas/butterfly-r40-3.jpg",
-    "/images/pelotas/butterfly-r40-4.jpg",
-    "/images/pelotas/butterfly-r40-5.jpg"
+    "butterfly_caja.jpeg",
+    "butterfly_caja2.jpeg",
+    "butterfly_caja3.jpeg",
+    "butterfly_pelota.jpeg"
   ]
 }

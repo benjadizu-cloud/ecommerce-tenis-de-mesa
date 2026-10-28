@@ -5,9 +5,9 @@
   "marca": "Xushaofa",
   "descripcion": "Famosa pelota sin costuras (seamless). Al no tener una línea de unión en su hemisferio, ofrece un rebote perfectamente uniforme y es menos propensa a partirse por la mitad. Ideal para quienes buscan un rebote sin irregularidades.",
   "imagenes": [
-    "/images/pelotas/xushaofa-poly-1.jpg",
-    "/images/pelotas/xushaofa-poly-2.jpg",
-    "/images/pelotas/xushaofa-poly-3.jpg",
-    "/images/pelotas/xushaofa-poly-4.jpg"
+    "xushaofa_caja.jpeg",
+    "xushaofa_caja2.jpeg",
+    "xushaofa_pelota.jpeg",
+    "xushaofa_pelota2.jpeg"
   ]
 }
