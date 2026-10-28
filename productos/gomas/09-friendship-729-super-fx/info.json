@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-09",
+  "nombre": "Friendship 729 Super FX",
+  "categoria": "Gomas",
+  "subcategoria": "Clásica China / Control y Corte",
+  "marca": "Friendship 729",
+  "precio": 14990,
+  "dureza_esponja": "42° China (Media-Dura)",
+  "velocidad": 8.5,
+  "efecto": 11,
+  "descripcion": "El caucho clásico tradicional con mayor historia en formación deportiva. Su lámina altamente pegajosa retiene el impacto y reduce el rebote involuntario, resultando excelente para el aprendizaje técnico, el corte pasivo y el juego defensivo.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-densa.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
