@@ -1,0 +1,14 @@
+{
+  "id": "PELOTA-09",
+  "nombre": "Xiom Bravo 3-Star 40+",
+  "categoria": "Pelotas",
+  "marca": "Xiom",
+  "descripcion": "Pelota surcoreana que destaca por su innovación técnica. Fabricada con plásticos ABS de alta calidad que prometen una vida útil más larga, resistiendo los fuertes impactos en los bordes de la raqueta sin trizarse fácilmente.",
+  "imagenes": [
+    "/images/pelotas/xiom-bravo-1.jpg",
+    "/images/pelotas/xiom-bravo-2.jpg",
+    "/images/pelotas/xiom-bravo-3.jpg",
+    "/images/pelotas/xiom-bravo-4.jpg",
+    "/images/pelotas/xiom-bravo-5.jpg"
+  ]
+}

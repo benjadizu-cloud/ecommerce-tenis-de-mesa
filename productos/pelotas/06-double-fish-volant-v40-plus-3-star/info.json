@@ -1,0 +1,13 @@
+{
+  "id": "PELOTA-06",
+  "nombre": "Double Fish Volant V40+ 3-Star",
+  "categoria": "Pelotas",
+  "marca": "Double Fish",
+  "descripcion": "Pelota oficial en Copas del Mundo y múltiples torneos del circuito ITTF. Tiende a ser muy dura, lo que favorece un juego agresivo, rápido, directo y con bloqueos veloces. Excelente para entornos altamente competitivos.",
+  "imagenes": [
+    "/images/pelotas/double-fish-1.jpg",
+    "/images/pelotas/double-fish-2.jpg",
+    "/images/pelotas/double-fish-3.jpg",
+    "/images/pelotas/double-fish-4.jpg"
+  ]
+}

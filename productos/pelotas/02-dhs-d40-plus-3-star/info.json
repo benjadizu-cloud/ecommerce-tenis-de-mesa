@@ -1,0 +1,13 @@
+{
+  "id": "PELOTA-02",
+  "nombre": "DHS D40+ 3-Star",
+  "categoria": "Pelotas",
+  "marca": "DHS",
+  "descripcion": "El gigante asiático del tenis de mesa y el proveedor oficial de múltiples Campeonatos Mundiales y Juegos Olímpicos. Hecha de plástico ABS, ofrece una sensación sólida y un excelente equilibrio entre calidad y precio para competencia profesional.",
+  "imagenes": [
+    "/images/pelotas/dhs-d40-1.jpg",
+    "/images/pelotas/dhs-d40-2.jpg",
+    "/images/pelotas/dhs-d40-3.jpg",
+    "/images/pelotas/dhs-d40-4.jpg"
+  ]
+}

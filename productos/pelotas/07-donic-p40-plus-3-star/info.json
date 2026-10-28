@@ -1,0 +1,15 @@
+{
+  "id": "PELOTA-07",
+  "nombre": "Donic P40+ 3-Star",
+  "categoria": "Pelotas",
+  "marca": "Donic",
+  "descripcion": "Con presencia masiva en el mercado europeo, esta pelota ofrece una excelente relación calidad-precio. Es conocida por tener un bote limpio y ligeramente más alto, ideal para práctica constante y ligas de clubes.",
+  "imagenes": [
+    "/images/pelotas/donic-p40-1.jpg",
+    "/images/pelotas/donic-p40-2.jpg",
+    "/images/pelotas/donic-p40-3.jpg",
+    "/images/pelotas/donic-p40-4.jpg",
+    "/images/pelotas/donic-p40-5.jpg",
+    "/images/pelotas/donic-p40-6.jpg"
+  ]
+}
