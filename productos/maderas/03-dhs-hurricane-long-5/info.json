@@ -1,0 +1,21 @@
+{
+  "id": "MADERA-03",
+  "nombre": "DHS Hurricane Long 5",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva Rápida (OFF+)",
+  "marca": "DHS",
+  "precio": 160000,
+  "capas": "5 Madera + 2 Arylate-Carbon (Interno)",
+  "peso_promedio_gramos": 89,
+  "grosor_mm": 5.9,
+  "estilos_mango": [
+    "Cóncavo (FL)"
+  ],
+  "descripcion": "La madera insignia de la marca china DHS, diseñada en honor a Ma Long. Ofrece una potencia explosiva desde media y larga distancia, manteniendo un excelente tacto gracias a que su carbono está junto al núcleo.",
+  "imagenes": [
+    "long5-frente.jpg",
+    "long5-mango.jpg",
+    "long5-capas.jpg",
+    "long5-caja.jpg"
+  ]
+}

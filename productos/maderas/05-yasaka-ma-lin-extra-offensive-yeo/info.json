@@ -1,0 +1,23 @@
+{
+  "id": "MADERA-05",
+  "nombre": "Yasaka Ma Lin Extra Offensive (YEO)",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva (OFF)",
+  "marca": "Yasaka",
+  "precio": 55000,
+  "capas": "5 Madera",
+  "peso_promedio_gramos": 86,
+  "grosor_mm": 6.0,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)",
+    "Penhold (CPEN)"
+  ],
+  "descripcion": "Desarrollada junto al campeón olímpico Ma Lin. Su capa exterior dura permite golpes letales, mientras que su construcción ligera facilita los movimientos rápidos de muñeca cerca de la mesa.",
+  "imagenes": [
+    "yeo-frente.jpg",
+    "yeo-mango.jpg",
+    "yeo-capas.jpg",
+    "yeo-caja.jpg"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "MADERA-02",
+  "nombre": "Stiga Clipper Wood",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva (OFF)",
+  "marca": "Stiga",
+  "precio": 75000,
+  "capas": "7 Madera",
+  "peso_promedio_gramos": 90,
+  "grosor_mm": 7.0,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)",
+    "Anatómico (AN)"
+  ],
+  "descripcion": "Una madera clásica e icónica compuesta por 7 capas de pura madera. Es famosa en todo el mundo por su excelente sensación de toque y su gran velocidad sin necesidad de usar fibras de carbono. Elección favorita del ataque directo.",
+  "imagenes": [
+    "clipper-frente.jpg",
+    "clipper-mango.jpg",
+    "clipper-capas.jpg",
+    "clipper-caja.jpg"
+  ]
+}

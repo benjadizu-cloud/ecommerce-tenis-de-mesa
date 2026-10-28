@@ -1,0 +1,22 @@
+{
+  "id": "MADERA-09",
+  "nombre": "Victas Koji Matsushita",
+  "categoria": "Maderas",
+  "subcategoria": "Defensiva (DEF)",
+  "marca": "Victas",
+  "precio": 95000,
+  "capas": "5 Madera",
+  "peso_promedio_gramos": 87,
+  "grosor_mm": 5.4,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)"
+  ],
+  "descripcion": "Diseñada para el estilo defensivo por el legendario Koji Matsushita. Absorbe la energía de los ataques rivales, permitiendo devolver la bola con fuertes cortes lejos de la mesa.",
+  "imagenes": [
+    "koji-frente.jpg",
+    "koji-mango.jpg",
+    "koji-capas.jpg",
+    "koji-caja.jpg"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "MADERA-06",
+  "nombre": "Donic Waldner Senso Carbon",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva Controlada (OFF-)",
+  "marca": "Donic",
+  "precio": 65000,
+  "capas": "5 Madera + 2 Carbono",
+  "peso_promedio_gramos": 85,
+  "grosor_mm": 5.6,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)",
+    "Anatómico (AN)"
+  ],
+  "descripcion": "Combina capas de madera con carbono para mayor velocidad, utilizando la tecnología Senso (mango hueco) que desplaza el centro de gravedad hacia la cabeza de la paleta, mejorando el control.",
+  "imagenes": [
+    "waldner-frente.jpg",
+    "waldner-mango.jpg",
+    "waldner-capas.jpg",
+    "waldner-caja.jpg"
+  ]
+}

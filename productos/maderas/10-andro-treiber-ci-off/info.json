@@ -1,0 +1,22 @@
+{
+  "id": "MADERA-10",
+  "nombre": "Andro Treiber CI OFF",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva (OFF)",
+  "marca": "Andro",
+  "precio": 90000,
+  "capas": "5 Madera + 2 KVL Carbon (Interno)",
+  "peso_promedio_gramos": 90,
+  "grosor_mm": 6.1,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)"
+  ],
+  "descripcion": "Madera moderna que incorpora fibras sintéticas alrededor del núcleo. Proporciona una excelente absorción de vibraciones y una transmisión de energía limpia, ideal para el ataque continuo.",
+  "imagenes": [
+    "treiber-frente.jpg",
+    "treiber-mango.jpg",
+    "treiber-capas.jpg",
+    "treiber-caja.jpg"
+  ]
+}

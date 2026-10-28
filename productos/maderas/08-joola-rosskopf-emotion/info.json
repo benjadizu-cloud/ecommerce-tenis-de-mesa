@@ -1,0 +1,22 @@
+{
+  "id": "MADERA-08",
+  "nombre": "Joola Rosskopf Emotion",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva (OFF)",
+  "marca": "Joola",
+  "precio": 85000,
+  "capas": "5 Madera (Hinoki exterior) + 2 Carbono",
+  "peso_promedio_gramos": 85,
+  "grosor_mm": 5.9,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)"
+  ],
+  "descripcion": "Cuenta con capas exteriores de suave madera japonesa Hinoki combinadas con carbono. Se siente muy suave en los toques cortos, pero desata una gran velocidad en los golpes fuertes.",
+  "imagenes": [
+    "rosskopf-frente.jpg",
+    "rosskopf-mango.jpg",
+    "rosskopf-capas.jpg",
+    "rosskopf-caja.jpg"
+  ]
+}

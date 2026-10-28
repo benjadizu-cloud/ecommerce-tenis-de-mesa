@@ -1,0 +1,22 @@
+{
+  "id": "MADERA-01",
+  "nombre": "Butterfly Viscaria",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva (OFF)",
+  "marca": "Butterfly",
+  "precio": 185000,
+  "capas": "5 Madera + 2 Arylate-Carbon",
+  "peso_promedio_gramos": 87,
+  "grosor_mm": 5.8,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)"
+  ],
+  "descripcion": "Es una de las maderas más legendarias y populares del mundo. Fue pionera en combinar fibras de Arylate y Carbono (ALC). Es ideal para jugadores ofensivos que buscan un equilibrio perfecto entre la flexibilidad para generar efectos y la dureza para bloqueos.",
+  "imagenes": [
+    "viscaria-frente.jpg",
+    "viscaria-mango.jpg",
+    "viscaria-capas.jpg",
+    "viscaria-caja.jpg"
+  ]
+}

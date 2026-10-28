@@ -1,0 +1,22 @@
+{
+  "id": "MADERA-07",
+  "nombre": "Tibhar Stratus Power Wood",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva Controlada (OFF-)",
+  "marca": "Tibhar",
+  "precio": 45000,
+  "capas": "5 Madera",
+  "peso_promedio_gramos": 85,
+  "grosor_mm": 6.2,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)"
+  ],
+  "descripcion": "Madera ofensiva de 5 capas recomendada para jugadores en desarrollo. Destaca por su excelente relación calidad-precio y por ofrecer un control sobresaliente sin sacrificar velocidad.",
+  "imagenes": [
+    "stratus-frente.jpg",
+    "stratus-mango.jpg",
+    "stratus-capas.jpg",
+    "stratus-caja.jpg"
+  ]
+}

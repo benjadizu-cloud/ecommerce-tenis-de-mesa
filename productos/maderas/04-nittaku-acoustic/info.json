@@ -1,0 +1,22 @@
+{
+  "id": "MADERA-04",
+  "nombre": "Nittaku Acoustic",
+  "categoria": "Maderas",
+  "subcategoria": "Ofensiva Controlada (OFF-)",
+  "marca": "Nittaku",
+  "precio": 135000,
+  "capas": "5 Madera Premium",
+  "peso_promedio_gramos": 85,
+  "grosor_mm": 5.7,
+  "estilos_mango": [
+    "Cóncavo (FL)",
+    "Recto (ST)"
+  ],
+  "descripcion": "Fabricada utilizando la misma tecnología de laminación especial que se emplea en instrumentos musicales de cuerda. Proporciona un sonido característico al golpear la bola y un control excepcionalmente suave.",
+  "imagenes": [
+    "acoustic-frente.jpg",
+    "acoustic-mango.jpg",
+    "acoustic-capas.jpg",
+    "acoustic-caja.jpg"
+  ]
+}
