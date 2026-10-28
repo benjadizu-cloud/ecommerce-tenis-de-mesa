@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-06",
+  "nombre": "Donic Bluefire M2",
+  "categoria": "Gomas",
+  "subcategoria": "Spin Catapulta / Equilibrada",
+  "marca": "Donic",
+  "precio": 44990,
+  "dureza_esponja": "45° (Media)",
+  "velocidad": 12,
+  "efecto": 13,
+  "descripcion": "Reconocida por su distintiva esponja azul de tecnología FD3 con poros abiertos. Ofrece un efecto catapulta pronunciado y un arco curvo seguro, equilibrando agresividad en el remate con precisión en los intercambios continuos.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-azul.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
