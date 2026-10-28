@@ -1,0 +1,18 @@
+{
+  "id": "GOMA-01",
+  "nombre": "Butterfly Dignics 09C",
+  "categoria": "Gomas",
+  "subcategoria": "Híbrida / Ataque",
+  "marca": "Butterfly",
+  "precio": 89990,
+  "dureza_esponja": "44° (Dura)",
+  "velocidad": 13,
+  "efecto": 13,
+  "descripcion": "Goma híbrida de alta gama con tecnología Spring Sponge X y superficie ligeramente pegajosa. Diseñada para jugadores ofensivos que buscan máxima rotación en saques y golpes de apertura, combinando el agarre chino con la potencia y aceleración europea a media distancia.",
+  "imagenes": [
+    "01-superficie.jpg",
+    "02-esponja-roja.jpg",
+    "03-sello-ittf.jpg",
+    "04-empaque.jpg"
+  ]
+}
