@@ -1,0 +1,13 @@
+{
+  "id": "MALLA-04",
+  "nombre": "Red Donic Stress",
+  "categoria": "Mallas",
+  "marca": "Donic",
+  "descripcion": "Soporte de acero forjado muy robusto, recubierto en goma en las zonas de contacto para no dañar la superficie de la mesa. Ofrece máxima estabilidad durante el juego.",
+  "imagenes": [
+    "/images/mallas/04-donic-stress/imagen_donic-stress_1.jpg",
+    "/images/mallas/04-donic-stress/imagen_donic-stress_2.jpg",
+    "/images/mallas/04-donic-stress/imagen_donic-stress_3.jpg",
+    "/images/mallas/04-donic-stress/imagen_donic-stress_4.jpg"
+  ]
+}

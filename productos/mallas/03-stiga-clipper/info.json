@@ -1,0 +1,13 @@
+{
+  "id": "MALLA-03",
+  "nombre": "Red Stiga Clipper",
+  "categoria": "Mallas",
+  "marca": "Stiga",
+  "descripcion": "Destaca por su sistema de pinza (clip) reforzado con resortes, permitiendo un montaje y desmontaje extremadamente rápido en cualquier mesa de ping pong.",
+  "imagenes": [
+    "/images/mallas/03-stiga-clipper/imagen_stiga-clipper_1.jpg",
+    "/images/mallas/03-stiga-clipper/imagen_stiga-clipper_2.jpg",
+    "/images/mallas/03-stiga-clipper/imagen_stiga-clipper_3.jpg",
+    "/images/mallas/03-stiga-clipper/imagen_stiga-clipper_4.jpg"
+  ]
+}

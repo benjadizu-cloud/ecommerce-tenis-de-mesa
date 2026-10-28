@@ -1,0 +1,13 @@
+{
+  "id": "MALLA-02",
+  "nombre": "Red Joola WM",
+  "categoria": "Mallas",
+  "marca": "Joola",
+  "descripcion": "Conjunto de red oficial utilizado en la Copa del Mundo. Incluye un sistema de microajuste para la tensión de la malla y tornillos de calibración de altura precisos.",
+  "imagenes": [
+    "/images/mallas/02-joola-wm/imagen_joola-wm_1.jpg",
+    "/images/mallas/02-joola-wm/imagen_joola-wm_2.jpg",
+    "/images/mallas/02-joola-wm/imagen_joola-wm_3.jpg",
+    "/images/mallas/02-joola-wm/imagen_joola-wm_4.jpg"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "MALLA-06",
+  "nombre": "Red Tibhar Smash",
+  "categoria": "Mallas",
+  "marca": "Tibhar",
+  "descripcion": "Malla de nylon de gran durabilidad que integra una cuerda tensora de acero inoxidable. Su diseño evita que la red se combe con el tiempo o los impactos.",
+  "imagenes": [
+    "/images/mallas/06-tibhar-smash/imagen_tibhar-smash_1.jpg",
+    "/images/mallas/06-tibhar-smash/imagen_tibhar-smash_2.jpg",
+    "/images/mallas/06-tibhar-smash/imagen_tibhar-smash_3.jpg",
+    "/images/mallas/06-tibhar-smash/imagen_tibhar-smash_4.jpg"
+  ]
+}

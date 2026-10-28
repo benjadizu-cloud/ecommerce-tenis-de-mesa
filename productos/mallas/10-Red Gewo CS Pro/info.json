@@ -1,0 +1,13 @@
+{
+  "id": "MALLA-10",
+  "nombre": "Red Gewo CS Pro",
+  "categoria": "Mallas",
+  "marca": "Gewo",
+  "descripcion": "Red de competición homologada por la ITTF. Ofrece un soporte de metal pesado con sistema de tornillo clásico que garantiza una estabilidad absoluta frente a los impactos.",
+  "imagenes": [
+    "/images/mallas/10-Red Gewo CS Pro/imagen_Red Gewo CS Pro_1.jpg",
+    "/images/mallas/10-Red Gewo CS Pro/imagen_Red Gewo CS Pro_2.jpg",
+    "/images/mallas/10-Red Gewo CS Pro/imagen_Red Gewo CS Pro_3.jpg",
+    "/images/mallas/10-Red Gewo CS Pro/imagen_Red Gewo CS Pro_4.jpg"
+  ]
+}

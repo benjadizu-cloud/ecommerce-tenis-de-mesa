@@ -1,0 +1,13 @@
+{
+  "id": "MALLA-01",
+  "nombre": "Red Butterfly Europa",
+  "categoria": "Mallas",
+  "marca": "Butterfly",
+  "descripcion": "Red de algodón de alta resistencia con soportes de fijación a rosca. Cuenta con certificación ITTF, garantizando una altura y tensión perfectas para competiciones de alto nivel.",
+  "imagenes": [
+    "/images/mallas/01-butterfly-europa/imagen_butterfly-europa_1.jpg",
+    "/images/mallas/01-butterfly-europa/imagen_butterfly-europa_2.jpg",
+    "/images/mallas/01-butterfly-europa/imagen_butterfly-europa_3.jpg",
+    "/images/mallas/01-butterfly-europa/imagen_butterfly-europa_4.jpg"
+  ]
+}
